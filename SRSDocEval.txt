@@ -1,0 +1,45 @@
+
+
+This is a good start!
+
+You can ALWAYS specify more.  Try to think in terms of "if someone ELSE
+were to code this project, what would they need to know about the way it
+operates?  What information could I provide them so they can be successful
+in the implementation?
+
+For example, in 5.3.3, what are the states from which the "current" state
+is selected?  In 5.3.4, what are the assets that might be manipulated?
+
+In 5.3.5, the statement should be:
+
+5.3.5  The management software shall provide operations including but
+       not limited to the following:
+       * controlling the state of the virtual experience
+       * triggering asset utilization
+       * triggering audio playback
+       * triggering visual response to the audio
+
+You will also need [somwhere] to specify what the assets are, and what
+the states are.  You can always use bullet lists, but THOSE don't get
+numbers, because they are further information that EXPAND on the
+requirement -- they are not requirements themselves.
+
+I hope that makes sense.
+
+Make a few changes there, add a couple more requirements and you'll be
+good to go.
+
+
+Otherwise, nice work!
+
+So far for the semester:
+Proposal:      5.0  out of  5.0  points
+Requirements: 14.0  out of 15.0  points
+Homework 1:    3.34 out of  3.34 points
+Homework 2:    3.34 out of  3.34 points
+Particip.:     1.5  out of  1.5  points
+              27.18 out of 28.18 points = 96.45% which is an A
+
+Keep it up!
+		      
+
