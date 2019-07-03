@@ -257,9 +257,6 @@
     <Reference Include="Unity.Locator">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/Unity.Locator.dll</HintPath>
     </Reference>
-    <Reference Include="Assembly-CSharp-firstpass">
-      <HintPath>C:/Users/joeym/lmu/Vizualize-R/Vizualize R/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
     </Reference>
@@ -364,6 +361,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{02E1158E-EDC9-09DC-EEFB-262D6E597089}</Project>
+      <Name>Assembly-CSharp-firstpass</Name>
+    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{58D81B7A-A96A-AE18-5C2D-EFD9EA21F9EB}</Project>
       <Name>Assembly-CSharp</Name>
